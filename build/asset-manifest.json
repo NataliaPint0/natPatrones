@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bs5-reactprice/build/static/css/main.646f0bc2.css",
+    "main.js": "/bs5-reactprice/build/static/js/main.d02fa9f2.js",
+    "static/js/453.709807a2.chunk.js": "/bs5-reactprice/build/static/js/453.709807a2.chunk.js",
+    "index.html": "/bs5-reactprice/build/index.html",
+    "main.646f0bc2.css.map": "/bs5-reactprice/build/static/css/main.646f0bc2.css.map",
+    "main.d02fa9f2.js.map": "/bs5-reactprice/build/static/js/main.d02fa9f2.js.map",
+    "453.709807a2.chunk.js.map": "/bs5-reactprice/build/static/js/453.709807a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.646f0bc2.css",
+    "static/js/main.d02fa9f2.js"
+  ]
+}

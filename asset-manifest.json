@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/natPatrones/build/static/css/main.646f0bc2.css",
-    "main.js": "/natPatrones/build/static/js/main.b16efc78.js",
-    "static/js/453.709807a2.chunk.js": "/natPatrones/build/static/js/453.709807a2.chunk.js",
-    "index.html": "/natPatrones/build/index.html",
-    "main.646f0bc2.css.map": "/natPatrones/build/static/css/main.646f0bc2.css.map",
-    "main.b16efc78.js.map": "/natPatrones/build/static/js/main.b16efc78.js.map",
-    "453.709807a2.chunk.js.map": "/natPatrones/build/static/js/453.709807a2.chunk.js.map"
+    "main.css": "/natPatrones/static/css/main.646f0bc2.css",
+    "main.js": "/natPatrones/static/js/main.2be61f09.js",
+    "static/js/453.709807a2.chunk.js": "/natPatrones/static/js/453.709807a2.chunk.js",
+    "index.html": "/natPatrones/index.html",
+    "main.646f0bc2.css.map": "/natPatrones/static/css/main.646f0bc2.css.map",
+    "main.2be61f09.js.map": "/natPatrones/static/js/main.2be61f09.js.map",
+    "453.709807a2.chunk.js.map": "/natPatrones/static/js/453.709807a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.646f0bc2.css",
-    "static/js/main.b16efc78.js"
+    "static/js/main.2be61f09.js"
   ]
 }
